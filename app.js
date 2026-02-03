@@ -1,0 +1,32 @@
+const stored = localStorage.getItem("birds");
+
+const birds = stored
+  ? JSON.parse(stored)
+  : [
+      { id: 1, name: "European Robin", seen: false },
+      { id: 2, name: "Common Blackbird", seen: false },
+      { id: 3, name: "Great Tit", seen: false }
+    ];
+
+const list = document.getElementById("bird-list");
+
+birds.forEach(bird => {
+  const li = document.createElement("li");
+
+  const checkbox = document.createElement("input");
+  checkbox.type = "checkbox";
+  checkbox.checked = bird.seen;
+
+  checkbox.addEventListener("change", () => {
+    bird.seen = checkbox.checked;
+    saveProgress();
+  });
+
+  li.appendChild(checkbox);
+  li.append(" " + bird.name);
+  list.appendChild(li);
+});
+
+function saveProgress() {
+  localStorage.setItem("birds", JSON.stringify(birds));
+}
