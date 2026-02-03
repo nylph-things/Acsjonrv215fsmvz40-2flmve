@@ -15,11 +15,11 @@ const birds = stored
   ? JSON.parse(stored)
   : [
   {
-    "id": [1],
-    "name": ["Wachtel"],
-    "family": ["Fasanenartige"],
-    "scientific_name": ["Coturnix coturnix"],
-    "seen": [false]
+    "id": 1,
+    "name": "Wachtel",
+    "family": "Fasanenartige",
+    "scientific_name": "Coturnix coturnix",
+    "seen": false
   },
   {
     "id": [2],
@@ -2212,4 +2212,5 @@ birds.forEach(bird => {
 
 function saveProgress() {
   localStorage.setItem("birds", JSON.stringify(birds));
+
 }
