@@ -1,3 +1,14 @@
+const ACCESS_KEY = "rotkehlchens";
+
+if (localStorage.getItem("access") !== ACCESS_KEY) {
+  const input = prompt("Enter access code:");
+  if (input !== ACCESS_KEY) {
+    document.body.innerHTML = "No access";
+  } else {
+    localStorage.setItem("access", ACCESS_KEY);
+  }
+}
+
 const stored = localStorage.getItem("birds");
 
 const birds = stored
