@@ -11,15 +11,14 @@ if (localStorage.getItem("access") !== ACCESS_KEY) {
 
 const stored = localStorage.getItem("birds");
 
-const birds = stored
-  ? JSON.parse(stored)
-  : [
-      { id: 1, name: "European Robin", seen: false },
-      { id: 2, name: "Common Blackbird", seen: false },
-      { id: 3, name: "Great Tit", seen: false }
-    ];
+let birds = [];
 
-const list = document.getElementById("bird-list");
+fetch('birds.json')
+  .then(response => response.json())
+  .then(data => {
+    birds = data;
+    renderBirdList(); // call your existing function to render checkboxes
+  });
 
 birds.forEach(bird => {
   const li = document.createElement("li");
@@ -40,13 +39,4 @@ birds.forEach(bird => {
 
 function saveProgress() {
   localStorage.setItem("birds", JSON.stringify(birds));
-
-}
-
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js')
-      .then(reg => console.log('SW registered', reg))
-      .catch(err => console.log('SW registration failed', err));
-  });
 }

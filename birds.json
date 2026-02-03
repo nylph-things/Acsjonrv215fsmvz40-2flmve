@@ -1,0 +1,2179 @@
+[
+  {
+    "id": [1],
+    "name": ["Wachtel"],
+    "family": ["Fasanenartige"],
+    "scientific_name": ["Coturnix coturnix"],
+    "seen": [false]
+  },
+  {
+    "id": [2],
+    "name": ["Steinhuhn"],
+    "family": ["Fasanenartige"],
+    "scientific_name": ["Alectoris graeca"],
+    "seen": [false]
+  },
+  {
+    "id": [3],
+    "name": ["Rothuhn"],
+    "family": ["Fasanenartige"],
+    "scientific_name": ["Alectoris rufa"],
+    "seen": [false]
+  },
+  {
+    "id": [4],
+    "name": ["Rebhuhn"],
+    "family": ["Fasanenartige"],
+    "scientific_name": ["Perdix perdix"],
+    "seen": [false]
+  },
+  {
+    "id": [5],
+    "name": ["Haselhuhn"],
+    "family": ["Fasanenartige"],
+    "scientific_name": ["Tetrastes bonasia"],
+    "seen": [false]
+  },
+  {
+    "id": [6],
+    "name": ["Moorschneehuhn"],
+    "family": ["Fasanenartige"],
+    "scientific_name": ["Lagopus lagopus"],
+    "seen": [false]
+  },
+  {
+    "id": [7],
+    "name": ["Alpenschneehuhn"],
+    "family": ["Fasanenartige"],
+    "scientific_name": ["Lagopus muta"],
+    "seen": [false]
+  },
+  {
+    "id": [8],
+    "name": ["Auerhuhn"],
+    "family": ["Fasanenartige"],
+    "scientific_name": ["Tetrao urogallus"],
+    "seen": [false]
+  },
+  {
+    "id": [9],
+    "name": ["Birkhuhn"],
+    "family": ["Fasanenartige"],
+    "scientific_name": ["Lyrurus tetrix"],
+    "seen": [false]
+  },
+  {
+    "id": [10],
+    "name": ["Höckerschwan"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Cygnus olor"],
+    "seen": [false]
+  },
+  {
+    "id": [11],
+    "name": ["Singschwan"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Cygnus cygnus"],
+    "seen": [false]
+  },
+  {
+    "id": [12],
+    "name": ["Zwergschwan"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Cygnus columbianus"],
+    "seen": [false]
+  },
+  {
+    "id": [13],
+    "name": ["Ringelgans"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Branta bernicla"],
+    "seen": [false]
+  },
+  {
+    "id": [14],
+    "name": ["Weißwangengans"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Branta leucopsis"],
+    "seen": [false]
+  },
+  {
+    "id": [15],
+    "name": ["Graugans"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Anser anser"],
+    "seen": [false]
+  },
+  {
+    "id": [16],
+    "name": ["Waldsaatgans"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Anser fabalis"],
+    "seen": [false]
+  },
+  {
+    "id": [17],
+    "name": ["Kurzschnabelgans"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Anser brachyrhynchus"],
+    "seen": [false]
+  },
+  {
+    "id": [18],
+    "name": ["Blässgans"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Anser albifrons"],
+    "seen": [false]
+  },
+  {
+    "id": [19],
+    "name": ["Zwerggans"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Anser erythropus"],
+    "seen": [false]
+  },
+  {
+    "id": [20],
+    "name": ["Eisente"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Clangula hyemalis"],
+    "seen": [false]
+  },
+  {
+    "id": [21],
+    "name": ["Eiderente"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Somateria mollissima"],
+    "seen": [false]
+  },
+  {
+    "id": [22],
+    "name": ["Samtente"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Melanitta fusca"],
+    "seen": [false]
+  },
+  {
+    "id": [23],
+    "name": ["Trauerente"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Melanitta nigra"],
+    "seen": [false]
+  },
+  {
+    "id": [24],
+    "name": ["Schellente"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Bucephala clangula"],
+    "seen": [false]
+  },
+  {
+    "id": [25],
+    "name": ["Zwergsäger"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Mergellus albellus"],
+    "seen": [false]
+  },
+  {
+    "id": [26],
+    "name": ["Gänsesäger"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Mergus merganser"],
+    "seen": [false]
+  },
+  {
+    "id": [27],
+    "name": ["Red-breasted Merganser"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Mergus serrator"],
+    "seen": [false]
+  },
+  {
+    "id": [28],
+    "name": ["Common Shelduck"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Tadorna tadorna"],
+    "seen": [false]
+  },
+  {
+    "id": [29],
+    "name": ["Red-crested Pochard"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Netta rufina"],
+    "seen": [false]
+  },
+  {
+    "id": [30],
+    "name": ["Common Pochard"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Aythya ferina"],
+    "seen": [false]
+  },
+  {
+    "id": [31],
+    "name": ["Ferruginous Duck"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Aythya nyroca"],
+    "seen": [false]
+  },
+  {
+    "id": [32],
+    "name": ["Tufted Duck"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Aythya fuligula"],
+    "seen": [false]
+  },
+  {
+    "id": [33],
+    "name": ["Greater Scaup"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Aythya marila"],
+    "seen": [false]
+  },
+  {
+    "id": [34],
+    "name": ["Garganey"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Spatula querquedula"],
+    "seen": [false]
+  },
+  {
+    "id": [35],
+    "name": ["Northern Shoveler"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Spatula clypeata"],
+    "seen": [false]
+  },
+  {
+    "id": [36],
+    "name": ["Gadwall"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Mareca strepera"],
+    "seen": [false]
+  },
+  {
+    "id": [37],
+    "name": ["Eurasian Wigeon"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Mareca penelope"],
+    "seen": [false]
+  },
+  {
+    "id": [38],
+    "name": ["Stockente"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Anas platyrhynchos"],
+    "seen": [false]
+  },
+  {
+    "id": [39],
+    "name": ["Northern Pintail"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Anas acuta"],
+    "seen": [false]
+  },
+  {
+    "id": [40],
+    "name": ["Common Teal"],
+    "family": ["Entenvögel"],
+    "scientific_name": ["Anas crecca"],
+    "seen": [false]
+  },
+  {
+    "id": [41],
+    "name": ["Little Grebe"],
+    "family": ["Lappentaucher"],
+    "scientific_name": ["Tachybaptus ruficollis"],
+    "seen": [false]
+  },
+  {
+    "id": [42],
+    "name": ["Red-necked Grebe"],
+    "family": ["Lappentaucher"],
+    "scientific_name": ["Podiceps grisegena"],
+    "seen": [false]
+  },
+  {
+    "id": [43],
+    "name": ["Great Crested Grebe"],
+    "family": ["Lappentaucher"],
+    "scientific_name": ["Podiceps cristatus"],
+    "seen": [false]
+  },
+  {
+    "id": [44],
+    "name": ["Horned Grebe"],
+    "family": ["Lappentaucher"],
+    "scientific_name": ["Podiceps auritus"],
+    "seen": [false]
+  },
+  {
+    "id": [45],
+    "name": ["Black-necked Grebe"],
+    "family": ["Lappentaucher"],
+    "scientific_name": ["Podiceps nigricollis"],
+    "seen": [false]
+  },
+  {
+    "id": [46],
+    "name": ["Rock Dove"],
+    "family": ["Tauben"],
+    "scientific_name": ["Columba livia"],
+    "seen": [false]
+  },
+  {
+    "id": [47],
+    "name": ["Stock Dove"],
+    "family": ["Tauben"],
+    "scientific_name": ["Columba oenas"],
+    "seen": [false]
+  },
+  {
+    "id": [48],
+    "name": ["Common Woodpigeon"],
+    "family": ["Tauben"],
+    "scientific_name": ["Columba palumbus"],
+    "seen": [false]
+  },
+  {
+    "id": [49],
+    "name": ["European Turtle-dove"],
+    "family": ["Tauben"],
+    "scientific_name": ["Streptopelia turtur"],
+    "seen": [false]
+  },
+  {
+    "id": [50],
+    "name": ["Eurasian Collared-dove"],
+    "family": ["Tauben"],
+    "scientific_name": ["Streptopelia decaocto"],
+    "seen": [false]
+  },
+  {
+    "id": [51],
+    "name": ["European Nightjar"],
+    "family": ["Nachtschwalben"],
+    "scientific_name": ["Caprimulgus europaeus"],
+    "seen": [false]
+  },
+  {
+    "id": [52],
+    "name": ["Alpine Swift"],
+    "family": ["Segler"],
+    "scientific_name": ["Tachymarptis melba"],
+    "seen": [false]
+  },
+  {
+    "id": [53],
+    "name": ["Common Swift"],
+    "family": ["Segler"],
+    "scientific_name": ["Apus apus"],
+    "seen": [false]
+  },
+  {
+    "id": [54],
+    "name": ["Common Cuckoo"],
+    "family": ["Kuckucke"],
+    "scientific_name": ["Cuculus canorus"],
+    "seen": [false]
+  },
+  {
+    "id": [55],
+    "name": ["Western Water Rail"],
+    "family": ["Rallen"],
+    "scientific_name": ["Rallus aquaticus"],
+    "seen": [false]
+  },
+  {
+    "id": [56],
+    "name": ["Corncrake"],
+    "family": ["Rallen"],
+    "scientific_name": ["Crex crex"],
+    "seen": [false]
+  },
+  {
+    "id": [57],
+    "name": ["Spotted Crake"],
+    "family": ["Rallen"],
+    "scientific_name": ["Porzana porzana"],
+    "seen": [false]
+  },
+  {
+    "id": [58],
+    "name": ["Little Crake"],
+    "family": ["Rallen"],
+    "scientific_name": ["Zapornia parva"],
+    "seen": [false]
+  },
+  {
+    "id": [59],
+    "name": ["Baillon's Crake"],
+    "family": ["Rallen"],
+    "scientific_name": ["Zapornia pusilla"],
+    "seen": [false]
+  },
+  {
+    "id": [60],
+    "name": ["Common Moorhen"],
+    "family": ["Rallen"],
+    "scientific_name": ["Gallinula chloropus"],
+    "seen": [false]
+  },
+  {
+    "id": [61],
+    "name": ["Eurasian Coot"],
+    "family": ["Rallen"],
+    "scientific_name": ["Fulica atra"],
+    "seen": [false]
+  },
+  {
+    "id": [62],
+    "name": ["Kranich"],
+    "family": ["Kraniche"],
+    "scientific_name": ["Grus grus"],
+    "seen": [false]
+  },
+  {
+    "id": [63],
+    "name": ["Little Bustard"],
+    "family": ["Trappen"],
+    "scientific_name": ["Tetrax tetrax"],
+    "seen": [false]
+  },
+  {
+    "id": [64],
+    "name": ["Great Bustard"],
+    "family": ["Trappen"],
+    "scientific_name": ["Otis tarda"],
+    "seen": [false]
+  },
+  {
+    "id": [65],
+    "name": ["Red-throated Loon"],
+    "family": ["Seetaucher"],
+    "scientific_name": ["Gavia stellata"],
+    "seen": [false]
+  },
+  {
+    "id": [66],
+    "name": ["Arctic Loon"],
+    "family": ["Seetaucher"],
+    "scientific_name": ["Gavia arctica"],
+    "seen": [false]
+  },
+  {
+    "id": [67],
+    "name": ["Sturmwellenläufer"],
+    "family": ["Wellenläufer"],
+    "scientific_name": ["Hydrobates pelagicus"],
+    "seen": [false]
+  },
+  {
+    "id": [68],
+    "name": ["Northern Fulmar"],
+    "family": ["Sturmvögel"],
+    "scientific_name": ["Fulmarus glacialis"],
+    "seen": [false]
+  },
+  {
+    "id": [69],
+    "name": ["Black Stork"],
+    "family": ["Störche"],
+    "scientific_name": ["Ciconia nigra"],
+    "seen": [false]
+  },
+  {
+    "id": [70],
+    "name": ["White Stork"],
+    "family": ["Störche"],
+    "scientific_name": ["Ciconia ciconia"],
+    "seen": [false]
+  },
+  {
+    "id": [71],
+    "name": ["Löffler"],
+    "family": ["Ibisse und Löffler"],
+    "scientific_name": ["Platalea leucorodia"],
+    "seen": [false]
+  },
+  {
+    "id": [72],
+    "name": ["Eurasian Bittern"],
+    "family": ["Reiher"],
+    "scientific_name": ["Botaurus stellaris"],
+    "seen": [false]
+  },
+  {
+    "id": [73],
+    "name": ["Common Little Bittern"],
+    "family": ["Reiher"],
+    "scientific_name": ["Ixobrychus minutus"],
+    "seen": [false]
+  },
+  {
+    "id": [74],
+    "name": ["Black-crowned Night Heron"],
+    "family": ["Reiher"],
+    "scientific_name": ["Nycticorax nycticorax"],
+    "seen": [false]
+  },
+  {
+    "id": [75],
+    "name": ["Squacco Heron"],
+    "family": ["Reiher"],
+    "scientific_name": ["Ardeola ralloides"],
+    "seen": [false]
+  },
+  {
+    "id": [76],
+    "name": ["Grey Heron"],
+    "family": ["Reiher"],
+    "scientific_name": ["Ardea cinerea"],
+    "seen": [false]
+  },
+  {
+    "id": [77],
+    "name": ["Purple Heron"],
+    "family": ["Reiher"],
+    "scientific_name": ["Ardea purpurea"],
+    "seen": [false]
+  },
+  {
+    "id": [78],
+    "name": ["Great White Egret"],
+    "family": ["Reiher"],
+    "scientific_name": ["Ardea alba"],
+    "seen": [false]
+  },
+  {
+    "id": [79],
+    "name": ["Little Egret"],
+    "family": ["Reiher"],
+    "scientific_name": ["Egretta garzetta"],
+    "seen": [false]
+  },
+  {
+    "id": [80],
+    "name": ["Dalmatian Pelican"],
+    "family": ["Pelikane"],
+    "scientific_name": ["Pelecanus crispus"],
+    "seen": [false]
+  },
+  {
+    "id": [81],
+    "name": ["Northern Gannet"],
+    "family": ["Tölpel"],
+    "scientific_name": ["Morus bassanus"],
+    "seen": [false]
+  },
+  {
+    "id": [82],
+    "name": ["European Shag"],
+    "family": ["Kormorane"],
+    "scientific_name": ["Gulosus aristotelis"],
+    "seen": [false]
+  },
+  {
+    "id": [83],
+    "name": ["Great Cormorant"],
+    "family": ["Kormorane"],
+    "scientific_name": ["Phalacrocorax carbo"],
+    "seen": [false]
+  },
+  {
+    "id": [84],
+    "name": ["Eurasian Thick-knee"],
+    "family": ["Triele"],
+    "scientific_name": ["Burhinus oedicnemus"],
+    "seen": [false]
+  },
+  {
+    "id": [85],
+    "name": ["Eurasian Oystercatcher"],
+    "family": ["Austernfischer"],
+    "scientific_name": ["Haematopus ostralegus"],
+    "seen": [false]
+  },
+  {
+    "id": [86],
+    "name": ["Pied Avocet"],
+    "family": ["Säbelschnäbler"],
+    "scientific_name": ["Recurvirostra avosetta"],
+    "seen": [false]
+  },
+  {
+    "id": [87],
+    "name": ["Black-winged Stilt"],
+    "family": ["Säbelschnäbler"],
+    "scientific_name": ["Himantopus himantopus"],
+    "seen": [false]
+  },
+  {
+    "id": [88],
+    "name": ["Grey Plover"],
+    "family": ["Regenpfeifer"],
+    "scientific_name": ["Pluvialis squatarola"],
+    "seen": [false]
+  },
+  {
+    "id": [89],
+    "name": ["Eurasian Golden Plover"],
+    "family": ["Regenpfeifer"],
+    "scientific_name": ["Pluvialis apricaria"],
+    "seen": [false]
+  },
+  {
+    "id": [90],
+    "name": ["Eurasian Dotterel"],
+    "family": ["Regenpfeifer"],
+    "scientific_name": ["Eudromias morinellus"],
+    "seen": [false]
+  },
+  {
+    "id": [91],
+    "name": ["Common Ringed Plover"],
+    "family": ["Regenpfeifer"],
+    "scientific_name": ["Charadrius hiaticula"],
+    "seen": [false]
+  },
+  {
+    "id": [92],
+    "name": ["Little Ringed Plover"],
+    "family": ["Regenpfeifer"],
+    "scientific_name": ["Charadrius dubius"],
+    "seen": [false]
+  },
+  {
+    "id": [93],
+    "name": ["Kentish Plover"],
+    "family": ["Regenpfeifer"],
+    "scientific_name": ["Charadrius alexandrinus"],
+    "seen": [false]
+  },
+  {
+    "id": [94],
+    "name": ["Northern Lapwing"],
+    "family": ["Regenpfeifer"],
+    "scientific_name": ["Vanellus vanellus"],
+    "seen": [false]
+  },
+  {
+    "id": [95],
+    "name": ["Whimbrel"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Numenius phaeopus"],
+    "seen": [false]
+  },
+  {
+    "id": [96],
+    "name": ["Eurasian Curlew"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Numenius arquata"],
+    "seen": [false]
+  },
+  {
+    "id": [97],
+    "name": ["Bar-tailed Godwit"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Limosa lapponica"],
+    "seen": [false]
+  },
+  {
+    "id": [98],
+    "name": ["Black-tailed Godwit"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Limosa limosa"],
+    "seen": [false]
+  },
+  {
+    "id": [99],
+    "name": ["Ruddy Turnstone"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Arenaria interpres"],
+    "seen": [false]
+  },
+  {
+    "id": [100],
+    "name": ["Red Knot"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Calidris canutus"],
+    "seen": [false]
+  },
+  {
+    "id": [101],
+    "name": ["Ruff"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Calidris pugnax"],
+    "seen": [false]
+  },
+  {
+    "id": [102],
+    "name": ["Broad-billed Sandpiper"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Calidris falcinellus"],
+    "seen": [false]
+  },
+  {
+    "id": [103],
+    "name": ["Curlew Sandpiper"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Calidris ferruginea"],
+    "seen": [false]
+  },
+  {
+    "id": [104],
+    "name": ["Temminck's Stint"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Calidris temminckii"],
+    "seen": [false]
+  },
+  {
+    "id": [105],
+    "name": ["Sanderling"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Calidris alba"],
+    "seen": [false]
+  },
+  {
+    "id": [106],
+    "name": ["Dunlin"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Calidris alpina"],
+    "seen": [false]
+  },
+  {
+    "id": [107],
+    "name": ["Purple Sandpiper"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Calidris maritima"],
+    "seen": [false]
+  },
+  {
+    "id": [108],
+    "name": ["Little Stint"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Calidris minuta"],
+    "seen": [false]
+  },
+  {
+    "id": [109],
+    "name": ["Eurasian Woodcock"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Scolopax rusticola"],
+    "seen": [false]
+  },
+  {
+    "id": [110],
+    "name": ["Great Snipe"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Gallinago media"],
+    "seen": [false]
+  },
+  {
+    "id": [111],
+    "name": ["Common Snipe"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Gallinago gallinago"],
+    "seen": [false]
+  },
+  {
+    "id": [112],
+    "name": ["Jack Snipe"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Lymnocryptes minimus"],
+    "seen": [false]
+  },
+  {
+    "id": [113],
+    "name": ["Red-necked Phalarope"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Phalaropus lobatus"],
+    "seen": [false]
+  },
+  {
+    "id": [114],
+    "name": ["Red Phalarope"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Phalaropus fulicarius"],
+    "seen": [false]
+  },
+  {
+    "id": [115],
+    "name": ["Common Sandpiper"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Actitis hypoleucos"],
+    "seen": [false]
+  },
+  {
+    "id": [116],
+    "name": ["Green Sandpiper"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Tringa ochropus"],
+    "seen": [false]
+  },
+  {
+    "id": [117],
+    "name": ["Spotted Redshank"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Tringa erythropus"],
+    "seen": [false]
+  },
+  {
+    "id": [118],
+    "name": ["Common Greenshank"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Tringa nebularia"],
+    "seen": [false]
+  },
+  {
+    "id": [119],
+    "name": ["Common Redshank"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Tringa totanus"],
+    "seen": [false]
+  },
+  {
+    "id": [120],
+    "name": ["Wood Sandpiper"],
+    "family": ["Schnepfenvögel"],
+    "scientific_name": ["Tringa glareola"],
+    "seen": [false]
+  },
+  {
+    "id": [121],
+    "name": ["Little Gull"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Hydrocoloeus minutus"],
+    "seen": [false]
+  },
+  {
+    "id": [122],
+    "name": ["Black-legged Kittiwake"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Rissa tridactyla"],
+    "seen": [false]
+  },
+  {
+    "id": [123],
+    "name": ["Black-headed Gull"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Larus ridibundus"],
+    "seen": [false]
+  },
+  {
+    "id": [124],
+    "name": ["Mediterranean Gull"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Larus melanocephalus"],
+    "seen": [false]
+  },
+  {
+    "id": [125],
+    "name": ["Mew Gull"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Larus canus"],
+    "seen": [false]
+  },
+  {
+    "id": [126],
+    "name": ["Lesser Black-backed Gull"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Larus fuscus"],
+    "seen": [false]
+  },
+  {
+    "id": [127],
+    "name": ["European Herring Gull"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Larus argentatus"],
+    "seen": [false]
+  },
+  {
+    "id": [128],
+    "name": ["Yellow-legged Gull"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Larus michahellis"],
+    "seen": [false]
+  },
+  {
+    "id": [129],
+    "name": ["Glaucous Gull"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Larus hyperboreus"],
+    "seen": [false]
+  },
+  {
+    "id": [130],
+    "name": ["Great Black-backed Gull"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Larus marinus"],
+    "seen": [false]
+  },
+  {
+    "id": [131],
+    "name": ["Little Tern"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Sternula albifrons"],
+    "seen": [false]
+  },
+  {
+    "id": [132],
+    "name": ["Common Gull-billed Tern"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Gelochelidon nilotica"],
+    "seen": [false]
+  },
+  {
+    "id": [133],
+    "name": ["Caspian Tern"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Hydroprogne caspia"],
+    "seen": [false]
+  },
+  {
+    "id": [134],
+    "name": ["Whiskered Tern"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Chlidonias hybrida"],
+    "seen": [false]
+  },
+  {
+    "id": [135],
+    "name": ["White-winged Tern"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Chlidonias leucopterus"],
+    "seen": [false]
+  },
+  {
+    "id": [136],
+    "name": ["Black Tern"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Chlidonias niger"],
+    "seen": [false]
+  },
+  {
+    "id": [137],
+    "name": ["Common Tern"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Sterna hirundo"],
+    "seen": [false]
+  },
+  {
+    "id": [138],
+    "name": ["Arctic Tern"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Sterna paradisaea"],
+    "seen": [false]
+  },
+  {
+    "id": [139],
+    "name": ["Sandwich Tern"],
+    "family": ["Möwenverwandte"],
+    "scientific_name": ["Thalasseus sandvicensis"],
+    "seen": [false]
+  },
+  {
+    "id": [140],
+    "name": ["Arctic Jaeger"],
+    "family": ["Raubmöwen"],
+    "scientific_name": ["Stercorarius parasiticus"],
+    "seen": [false]
+  },
+  {
+    "id": [141],
+    "name": ["Pomarine Jaeger"],
+    "family": ["Raubmöwen"],
+    "scientific_name": ["Stercorarius pomarinus"],
+    "seen": [false]
+  },
+  {
+    "id": [142],
+    "name": ["Great Skua"],
+    "family": ["Raubmöwen"],
+    "scientific_name": ["Catharacta skua"],
+    "seen": [false]
+  },
+  {
+    "id": [143],
+    "name": ["Atlantic Puffin"],
+    "family": ["Alkenvögel"],
+    "scientific_name": ["Fratercula arctica"],
+    "seen": [false]
+  },
+  {
+    "id": [144],
+    "name": ["Black Guillemot"],
+    "family": ["Alkenvögel"],
+    "scientific_name": ["Cepphus grylle"],
+    "seen": [false]
+  },
+  {
+    "id": [145],
+    "name": ["Razorbill"],
+    "family": ["Alkenvögel"],
+    "scientific_name": ["Alca torda"],
+    "seen": [false]
+  },
+  {
+    "id": [146],
+    "name": ["Little Auk"],
+    "family": ["Alkenvögel"],
+    "scientific_name": ["Alle alle"],
+    "seen": [false]
+  },
+  {
+    "id": [147],
+    "name": ["Common Murre"],
+    "family": ["Alkenvögel"],
+    "scientific_name": ["Uria aalge"],
+    "seen": [false]
+  },
+  {
+    "id": [148],
+    "name": ["Schleiereule"],
+    "family": ["Schleiereulen"],
+    "scientific_name": ["Tyto alba"],
+    "seen": [false]
+  },
+  {
+    "id": [149],
+    "name": ["Little Owl"],
+    "family": ["Eigentliche Eulen"],
+    "scientific_name": ["Athene noctua"],
+    "seen": [false]
+  },
+  {
+    "id": [150],
+    "name": ["Eurasian Pygmy-owl"],
+    "family": ["Eigentliche Eulen"],
+    "scientific_name": ["Glaucidium passerinum"],
+    "seen": [false]
+  },
+  {
+    "id": [151],
+    "name": ["Boreal Owl"],
+    "family": ["Eigentliche Eulen"],
+    "scientific_name": ["Aegolius funereus"],
+    "seen": [false]
+  },
+  {
+    "id": [152],
+    "name": ["Long-eared Owl"],
+    "family": ["Eigentliche Eulen"],
+    "scientific_name": ["Asio otus"],
+    "seen": [false]
+  },
+  {
+    "id": [153],
+    "name": ["Short-eared Owl"],
+    "family": ["Eigentliche Eulen"],
+    "scientific_name": ["Asio flammeus"],
+    "seen": [false]
+  },
+  {
+    "id": [154],
+    "name": ["Tawny Owl"],
+    "family": ["Eigentliche Eulen"],
+    "scientific_name": ["Strix aluco"],
+    "seen": [false]
+  },
+  {
+    "id": [155],
+    "name": ["Ural Owl"],
+    "family": ["Eigentliche Eulen"],
+    "scientific_name": ["Strix uralensis"],
+    "seen": [false]
+  },
+  {
+    "id": [156],
+    "name": ["Eurasian Eagle-owl"],
+    "family": ["Eigentliche Eulen"],
+    "scientific_name": ["Bubo bubo"],
+    "seen": [false]
+  },
+  {
+    "id": [157],
+    "name": ["Fischadler"],
+    "family": ["Fischadler"],
+    "scientific_name": ["Pandion haliaetus"],
+    "seen": [false]
+  },
+  {
+    "id": [158],
+    "name": ["European Honey-buzzard"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Pernis apivorus"],
+    "seen": [false]
+  },
+  {
+    "id": [159],
+    "name": ["Lesser Spotted Eagle"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Clanga pomarina"],
+    "seen": [false]
+  },
+  {
+    "id": [160],
+    "name": ["Golden Eagle"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Aquila chrysaetos"],
+    "seen": [false]
+  },
+  {
+    "id": [161],
+    "name": ["Booted Eagle"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Hieraaetus pennatus"],
+    "seen": [false]
+  },
+  {
+    "id": [162],
+    "name": ["Western Marsh-harrier"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Circus aeruginosus"],
+    "seen": [false]
+  },
+  {
+    "id": [163],
+    "name": ["Hen Harrier"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Circus cyaneus"],
+    "seen": [false]
+  },
+  {
+    "id": [164],
+    "name": ["Pallid Harrier"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Circus macrourus"],
+    "seen": [false]
+  },
+  {
+    "id": [165],
+    "name": ["Montagu's Harrier"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Circus pygargus"],
+    "seen": [false]
+  },
+  {
+    "id": [166],
+    "name": ["Eurasian Sparrowhawk"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Accipiter nisus"],
+    "seen": [false]
+  },
+  {
+    "id": [167],
+    "name": ["Northern Goshawk"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Accipiter gentilis"],
+    "seen": [false]
+  },
+  {
+    "id": [168],
+    "name": ["White-tailed Sea-eagle"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Haliaeetus albicilla"],
+    "seen": [false]
+  },
+  {
+    "id": [169],
+    "name": ["Red Kite"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Milvus milvus"],
+    "seen": [false]
+  },
+  {
+    "id": [170],
+    "name": ["Black Kite"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Milvus migrans"],
+    "seen": [false]
+  },
+  {
+    "id": [171],
+    "name": ["Rough-legged Buzzard"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Buteo lagopus"],
+    "seen": [false]
+  },
+  {
+    "id": [172],
+    "name": ["Eurasian Buzzard"],
+    "family": ["Habichtartige"],
+    "scientific_name": ["Buteo buteo"],
+    "seen": [false]
+  },
+  {
+    "id": [173],
+    "name": ["Wiedehopf"],
+    "family": ["Wiedehopfe"],
+    "scientific_name": ["Upupa epops"],
+    "seen": [false]
+  },
+  {
+    "id": [174],
+    "name": ["Bienenfresser"],
+    "family": ["Bienenfresser"],
+    "scientific_name": ["Merops apiaster"],
+    "seen": [false]
+  },
+  {
+    "id": [175],
+    "name": ["Blauracke"],
+    "family": ["Racken"],
+    "scientific_name": ["Coracias garrulus"],
+    "seen": [false]
+  },
+  {
+    "id": [176],
+    "name": ["Eisvogel"],
+    "family": ["Eisvögel"],
+    "scientific_name": ["Alcedo atthis"],
+    "seen": [false]
+  },
+  {
+    "id": [177],
+    "name": ["Eurasian Wryneck"],
+    "family": ["Spechte"],
+    "scientific_name": ["Jynx torquilla"],
+    "seen": [false]
+  },
+  {
+    "id": [178],
+    "name": ["Grey-faced Woodpecker"],
+    "family": ["Spechte"],
+    "scientific_name": ["Picus canus"],
+    "seen": [false]
+  },
+  {
+    "id": [179],
+    "name": ["Eurasian Green Woodpecker"],
+    "family": ["Spechte"],
+    "scientific_name": ["Picus viridis"],
+    "seen": [false]
+  },
+  {
+    "id": [180],
+    "name": ["Black Woodpecker"],
+    "family": ["Spechte"],
+    "scientific_name": ["Dryocopus martius"],
+    "seen": [false]
+  },
+  {
+    "id": [181],
+    "name": ["Three-toed Woodpecker"],
+    "family": ["Spechte"],
+    "scientific_name": ["Picoides tridactylus"],
+    "seen": [false]
+  },
+  {
+    "id": [182],
+    "name": ["Middle Spotted Woodpecker"],
+    "family": ["Spechte"],
+    "scientific_name": ["Leiopicus medius"],
+    "seen": [false]
+  },
+  {
+    "id": [183],
+    "name": ["Lesser Spotted Woodpecker"],
+    "family": ["Spechte"],
+    "scientific_name": ["Dryobates minor"],
+    "seen": [false]
+  },
+  {
+    "id": [184],
+    "name": ["White-backed Woodpecker"],
+    "family": ["Spechte"],
+    "scientific_name": ["Dendrocopos leucotos"],
+    "seen": [false]
+  },
+  {
+    "id": [185],
+    "name": ["Great Spotted Woodpecker"],
+    "family": ["Spechte"],
+    "scientific_name": ["Dendrocopos major"],
+    "seen": [false]
+  },
+  {
+    "id": [186],
+    "name": ["Common Kestrel"],
+    "family": ["Falkenartige"],
+    "scientific_name": ["Falco tinnunculus"],
+    "seen": [false]
+  },
+  {
+    "id": [187],
+    "name": ["Red-footed Falcon"],
+    "family": ["Falkenartige"],
+    "scientific_name": ["Falco vespertinus"],
+    "seen": [false]
+  },
+  {
+    "id": [188],
+    "name": ["Merlin"],
+    "family": ["Falkenartige"],
+    "scientific_name": ["Falco columbarius"],
+    "seen": [false]
+  },
+  {
+    "id": [189],
+    "name": ["Eurasian Hobby"],
+    "family": ["Falkenartige"],
+    "scientific_name": ["Falco subbuteo"],
+    "seen": [false]
+  },
+  {
+    "id": [190],
+    "name": ["Saker Falcon"],
+    "family": ["Falkenartige"],
+    "scientific_name": ["Falco cherrug"],
+    "seen": [false]
+  },
+  {
+    "id": [191],
+    "name": ["Peregrine Falcon"],
+    "family": ["Falkenartige"],
+    "scientific_name": ["Falco peregrinus"],
+    "seen": [false]
+  },
+  {
+    "id": [192],
+    "name": ["Pirol"],
+    "family": ["Pirole"],
+    "scientific_name": ["Oriolus oriolus"],
+    "seen": [false]
+  },
+  {
+    "id": [193],
+    "name": ["Red-backed Shrike"],
+    "family": ["Würger"],
+    "scientific_name": ["Lanius collurio"],
+    "seen": [false]
+  },
+  {
+    "id": [194],
+    "name": ["Lesser Grey Shrike"],
+    "family": ["Würger"],
+    "scientific_name": ["Lanius minor"],
+    "seen": [false]
+  },
+  {
+    "id": [195],
+    "name": ["Great Grey Shrike"],
+    "family": ["Würger"],
+    "scientific_name": ["Lanius excubitor"],
+    "seen": [false]
+  },
+  {
+    "id": [196],
+    "name": ["Woodchat Shrike"],
+    "family": ["Würger"],
+    "scientific_name": ["Lanius senator"],
+    "seen": [false]
+  },
+  {
+    "id": [197],
+    "name": ["Yellow-billed Chough"],
+    "family": ["Rabenvögel"],
+    "scientific_name": ["Pyrrhocorax graculus"],
+    "seen": [false]
+  },
+  {
+    "id": [198],
+    "name": ["Eurasian Jay"],
+    "family": ["Rabenvögel"],
+    "scientific_name": ["Garrulus glandarius"],
+    "seen": [false]
+  },
+  {
+    "id": [199],
+    "name": ["Eurasian Magpie"],
+    "family": ["Rabenvögel"],
+    "scientific_name": ["Pica pica"],
+    "seen": [false]
+  },
+  {
+    "id": [200],
+    "name": ["Northern Nutcracker"],
+    "family": ["Rabenvögel"],
+    "scientific_name": ["Nucifraga caryocatactes"],
+    "seen": [false]
+  },
+  {
+    "id": [201],
+    "name": ["Eurasian Jackdaw"],
+    "family": ["Rabenvögel"],
+    "scientific_name": ["Corvus monedula"],
+    "seen": [false]
+  },
+  {
+    "id": [202],
+    "name": ["Rook"],
+    "family": ["Rabenvögel"],
+    "scientific_name": ["Corvus frugilegus"],
+    "seen": [false]
+  },
+  {
+    "id": [203],
+    "name": ["Common Raven"],
+    "family": ["Rabenvögel"],
+    "scientific_name": ["Corvus corax"],
+    "seen": [false]
+  },
+  {
+    "id": [204],
+    "name": ["Carrion Crow"],
+    "family": ["Rabenvögel"],
+    "scientific_name": ["Corvus corone"],
+    "seen": [false]
+  },
+  {
+    "id": [205],
+    "name": ["Coal Tit"],
+    "family": ["Meisen"],
+    "scientific_name": ["Periparus ater"],
+    "seen": [false]
+  },
+  {
+    "id": [206],
+    "name": ["Crested Tit"],
+    "family": ["Meisen"],
+    "scientific_name": ["Lophophanes cristatus"],
+    "seen": [false]
+  },
+  {
+    "id": [207],
+    "name": ["Marsh Tit"],
+    "family": ["Meisen"],
+    "scientific_name": ["Poecile palustris"],
+    "seen": [false]
+  },
+  {
+    "id": [208],
+    "name": ["Willow Tit"],
+    "family": ["Meisen"],
+    "scientific_name": ["Poecile montanus"],
+    "seen": [false]
+  },
+  {
+    "id": [209],
+    "name": ["Eurasian Blue Tit"],
+    "family": ["Meisen"],
+    "scientific_name": ["Cyanistes caeruleus"],
+    "seen": [false]
+  },
+  {
+    "id": [210],
+    "name": ["Great Tit"],
+    "family": ["Meisen"],
+    "scientific_name": ["Parus major"],
+    "seen": [false]
+  },
+  {
+    "id": [211],
+    "name": ["Eurasian Penduline-tit"],
+    "family": ["Beutelmeisen"],
+    "scientific_name": ["Remiz pendulinus"],
+    "seen": [false]
+  },
+  {
+    "id": [212],
+    "name": ["Horned Lark"],
+    "family": ["Lerchen"],
+    "scientific_name": ["Eremophila alpestris"],
+    "seen": [false]
+  },
+  {
+    "id": [213],
+    "name": ["Woodlark"],
+    "family": ["Lerchen"],
+    "scientific_name": ["Lullula arborea"],
+    "seen": [false]
+  },
+  {
+    "id": [214],
+    "name": ["Eurasian Skylark"],
+    "family": ["Lerchen"],
+    "scientific_name": ["Alauda arvensis"],
+    "seen": [false]
+  },
+  {
+    "id": [215],
+    "name": ["Crested Lark"],
+    "family": ["Lerchen"],
+    "scientific_name": ["Galerida cristata"],
+    "seen": [false]
+  },
+  {
+    "id": [216],
+    "name": ["Bartmeise"],
+    "family": ["Bartmeisen"],
+    "scientific_name": ["Panurus biarmicus"],
+    "seen": [false]
+  },
+  {
+    "id": [217],
+    "name": ["Melodious Warbler"],
+    "family": ["Rohrsängerartige"],
+    "scientific_name": ["Hippolais polyglotta"],
+    "seen": [false]
+  },
+  {
+    "id": [218],
+    "name": ["Icterine Warbler"],
+    "family": ["Rohrsängerartige"],
+    "scientific_name": ["Hippolais icterina"],
+    "seen": [false]
+  },
+  {
+    "id": [219],
+    "name": ["Aquatic Warbler"],
+    "family": ["Rohrsängerartige"],
+    "scientific_name": ["Acrocephalus paludicola"],
+    "seen": [false]
+  },
+  {
+    "id": [220],
+    "name": ["Sedge Warbler"],
+    "family": ["Rohrsängerartige"],
+    "scientific_name": ["Acrocephalus schoenobaenus"],
+    "seen": [false]
+  },
+  {
+    "id": [221],
+    "name": ["Marsh Warbler"],
+    "family": ["Rohrsängerartige"],
+    "scientific_name": ["Acrocephalus palustris"],
+    "seen": [false]
+  },
+  {
+    "id": [222],
+    "name": ["Common Reed-warbler"],
+    "family": ["Rohrsängerartige"],
+    "scientific_name": ["Acrocephalus scirpaceus"],
+    "seen": [false]
+  },
+  {
+    "id": [223],
+    "name": ["Great Reed-warbler"],
+    "family": ["Rohrsängerartige"],
+    "scientific_name": ["Acrocephalus arundinaceus"],
+    "seen": [false]
+  },
+  {
+    "id": [224],
+    "name": ["Savi's Warbler"],
+    "family": ["Schwirlverwandte"],
+    "scientific_name": ["Locustella luscinioides"],
+    "seen": [false]
+  },
+  {
+    "id": [225],
+    "name": ["River Warbler"],
+    "family": ["Schwirlverwandte"],
+    "scientific_name": ["Locustella fluviatilis"],
+    "seen": [false]
+  },
+  {
+    "id": [226],
+    "name": ["Common Grasshopper-warbler"],
+    "family": ["Schwirlverwandte"],
+    "scientific_name": ["Locustella naevia"],
+    "seen": [false]
+  },
+  {
+    "id": [227],
+    "name": ["Northern House Martin"],
+    "family": ["Schwalben"],
+    "scientific_name": ["Delichon urbicum"],
+    "seen": [false]
+  },
+  {
+    "id": [228],
+    "name": ["Barn Swallow"],
+    "family": ["Schwalben"],
+    "scientific_name": ["Hirundo rustica"],
+    "seen": [false]
+  },
+  {
+    "id": [229],
+    "name": ["Eurasian Crag Martin"],
+    "family": ["Schwalben"],
+    "scientific_name": ["Ptyonoprogne rupestris"],
+    "seen": [false]
+  },
+  {
+    "id": [230],
+    "name": ["Collared Sand Martin"],
+    "family": ["Schwalben"],
+    "scientific_name": ["Riparia riparia"],
+    "seen": [false]
+  },
+  {
+    "id": [231],
+    "name": ["Western Bonelli's Warbler"],
+    "family": ["Laubsängerartige"],
+    "scientific_name": ["Phylloscopus bonelli"],
+    "seen": [false]
+  },
+  {
+    "id": [232],
+    "name": ["Wood Warbler"],
+    "family": ["Laubsängerartige"],
+    "scientific_name": ["Phylloscopus sibilatrix"],
+    "seen": [false]
+  },
+  {
+    "id": [233],
+    "name": ["Yellow-browed Warbler"],
+    "family": ["Laubsängerartige"],
+    "scientific_name": ["Phylloscopus inornatus"],
+    "seen": [false]
+  },
+  {
+    "id": [234],
+    "name": ["Willow Warbler"],
+    "family": ["Laubsängerartige"],
+    "scientific_name": ["Phylloscopus trochilus"],
+    "seen": [false]
+  },
+  {
+    "id": [235],
+    "name": ["Common Chiffchaff"],
+    "family": ["Laubsängerartige"],
+    "scientific_name": ["Phylloscopus collybita"],
+    "seen": [false]
+  },
+  {
+    "id": [236],
+    "name": ["Greenish Warbler"],
+    "family": ["Laubsängerartige"],
+    "scientific_name": ["Phylloscopus trochiloides"],
+    "seen": [false]
+  },
+  {
+    "id": [237],
+    "name": ["Cetti's Warbler"],
+    "family": ["Seidensängerverwandte"],
+    "scientific_name": ["Cettia cetti"],
+    "seen": [false]
+  },
+  {
+    "id": [238],
+    "name": ["Long-tailed Tit"],
+    "family": ["Schwanzmeisen"],
+    "scientific_name": ["Aegithalos caudatus"],
+    "seen": [false]
+  },
+  {
+    "id": [239],
+    "name": ["Eurasian Blackcap"],
+    "family": ["Grasmückenartige"],
+    "scientific_name": ["Sylvia atricapilla"],
+    "seen": [false]
+  },
+  {
+    "id": [240],
+    "name": ["Garden Warbler"],
+    "family": ["Grasmückenartige"],
+    "scientific_name": ["Sylvia borin"],
+    "seen": [false]
+  },
+  {
+    "id": [241],
+    "name": ["Barred Warbler"],
+    "family": ["Grasmückenartige"],
+    "scientific_name": ["Curruca nisoria"],
+    "seen": [false]
+  },
+  {
+    "id": [242],
+    "name": ["Lesser Whitethroat"],
+    "family": ["Grasmückenartige"],
+    "scientific_name": ["Curruca curruca"],
+    "seen": [false]
+  },
+  {
+    "id": [243],
+    "name": ["Common Whitethroat"],
+    "family": ["Grasmückenartige"],
+    "scientific_name": ["Curruca communis"],
+    "seen": [false]
+  },
+  {
+    "id": [244],
+    "name": ["Short-toed Treecreeper"],
+    "family": ["Baumläufer"],
+    "scientific_name": ["Certhia brachydactyla"],
+    "seen": [false]
+  },
+  {
+    "id": [245],
+    "name": ["Eurasian Treecreeper"],
+    "family": ["Baumläufer"],
+    "scientific_name": ["Certhia familiaris"],
+    "seen": [false]
+  },
+  {
+    "id": [246],
+    "name": ["Eurasian Nuthatch"],
+    "family": ["Spechtmeisen"],
+    "scientific_name": ["Sitta europaea"],
+    "seen": [false]
+  },
+  {
+    "id": [247],
+    "name": ["Wallcreeper"],
+    "family": ["Spechtmeisen"],
+    "scientific_name": ["Tichodroma muraria"],
+    "seen": [false]
+  },
+  {
+    "id": [248],
+    "name": ["Northern Wren"],
+    "family": ["Zaunkönige"],
+    "scientific_name": ["Troglodytes troglodytes"],
+    "seen": [false]
+  },
+  {
+    "id": [249],
+    "name": ["White-throated Dipper"],
+    "family": ["Wasseramseln"],
+    "scientific_name": ["Cinclus cinclus"],
+    "seen": [false]
+  },
+  {
+    "id": [250],
+    "name": ["Common Starling"],
+    "family": ["Stare"],
+    "scientific_name": ["Sturnus vulgaris"],
+    "seen": [false]
+  },
+  {
+    "id": [251],
+    "name": ["Mistle Thrush"],
+    "family": ["Drosseln"],
+    "scientific_name": ["Turdus viscivorus"],
+    "seen": [false]
+  },
+  {
+    "id": [252],
+    "name": ["Song Thrush"],
+    "family": ["Drosseln"],
+    "scientific_name": ["Turdus philomelos"],
+    "seen": [false]
+  },
+  {
+    "id": [253],
+    "name": ["Redwing"],
+    "family": ["Drosseln"],
+    "scientific_name": ["Turdus iliacus"],
+    "seen": [false]
+  },
+  {
+    "id": [254],
+    "name": ["Eurasian Blackbird"],
+    "family": ["Drosseln"],
+    "scientific_name": ["Turdus merula"],
+    "seen": [false]
+  },
+  {
+    "id": [255],
+    "name": ["Fieldfare"],
+    "family": ["Drosseln"],
+    "scientific_name": ["Turdus pilaris"],
+    "seen": [false]
+  },
+  {
+    "id": [256],
+    "name": ["Ring Ouzel"],
+    "family": ["Drosseln"],
+    "scientific_name": ["Turdus torquatus"],
+    "seen": [false]
+  },
+  {
+    "id": [257],
+    "name": ["Spotted Flycatcher"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Muscicapa striata"],
+    "seen": [false]
+  },
+  {
+    "id": [258],
+    "name": ["European Robin"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Erithacus rubecula"],
+    "seen": [false]
+  },
+  {
+    "id": [259],
+    "name": ["Bluethroat"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Luscinia svecica"],
+    "seen": [false]
+  },
+  {
+    "id": [260],
+    "name": ["Thrush Nightingale"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Luscinia luscinia"],
+    "seen": [false]
+  },
+  {
+    "id": [261],
+    "name": ["Common Nightingale"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Luscinia megarhynchos"],
+    "seen": [false]
+  },
+  {
+    "id": [262],
+    "name": ["Red-breasted Flycatcher"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Ficedula parva"],
+    "seen": [false]
+  },
+  {
+    "id": [263],
+    "name": ["European Pied Flycatcher"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Ficedula hypoleuca"],
+    "seen": [false]
+  },
+  {
+    "id": [264],
+    "name": ["Collared Flycatcher"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Ficedula albicollis"],
+    "seen": [false]
+  },
+  {
+    "id": [265],
+    "name": ["Black Redstart"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Phoenicurus ochruros"],
+    "seen": [false]
+  },
+  {
+    "id": [266],
+    "name": ["Common Redstart"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Phoenicurus phoenicurus"],
+    "seen": [false]
+  },
+  {
+    "id": [267],
+    "name": ["Rufous-tailed Rock-thrush"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Monticola saxatilis"],
+    "seen": [false]
+  },
+  {
+    "id": [268],
+    "name": ["Whinchat"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Saxicola rubetra"],
+    "seen": [false]
+  },
+  {
+    "id": [269],
+    "name": ["Common Stonechat"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Saxicola torquatus"],
+    "seen": [false]
+  },
+  {
+    "id": [270],
+    "name": ["Northern Wheatear"],
+    "family": ["Fliegenschnäpper"],
+    "scientific_name": ["Oenanthe oenanthe"],
+    "seen": [false]
+  },
+  {
+    "id": [271],
+    "name": ["Goldcrest"],
+    "family": ["Goldhähnchen"],
+    "scientific_name": ["Regulus regulus"],
+    "seen": [false]
+  },
+  {
+    "id": [272],
+    "name": ["Common Firecrest"],
+    "family": ["Goldhähnchen"],
+    "scientific_name": ["Regulus ignicapilla"],
+    "seen": [false]
+  },
+  {
+    "id": [273],
+    "name": ["Bohemian Waxwing"],
+    "family": ["Seidenschwänze"],
+    "scientific_name": ["Bombycilla garrulus"],
+    "seen": [false]
+  },
+  {
+    "id": [274],
+    "name": ["Alpine Accentor"],
+    "family": ["Braunellen"],
+    "scientific_name": ["Prunella collaris"],
+    "seen": [false]
+  },
+  {
+    "id": [275],
+    "name": ["Dunnock"],
+    "family": ["Braunellen"],
+    "scientific_name": ["Prunella modularis"],
+    "seen": [false]
+  },
+  {
+    "id": [276],
+    "name": ["House Sparrow"],
+    "family": ["Sperlinge"],
+    "scientific_name": ["Passer domesticus"],
+    "seen": [false]
+  },
+  {
+    "id": [277],
+    "name": ["Eurasian Tree Sparrow"],
+    "family": ["Sperlinge"],
+    "scientific_name": ["Passer montanus"],
+    "seen": [false]
+  },
+  {
+    "id": [278],
+    "name": ["White-winged Snowfinch"],
+    "family": ["Sperlinge"],
+    "scientific_name": ["Montifringilla nivalis"],
+    "seen": [false]
+  },
+  {
+    "id": [279],
+    "name": ["Tree Pipit"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Anthus trivialis"],
+    "seen": [false]
+  },
+  {
+    "id": [280],
+    "name": ["Red-throated Pipit"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Anthus cervinus"],
+    "seen": [false]
+  },
+  {
+    "id": [281],
+    "name": ["Meadow Pipit"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Anthus pratensis"],
+    "seen": [false]
+  },
+  {
+    "id": [282],
+    "name": ["Water Pipit"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Anthus spinoletta"],
+    "seen": [false]
+  },
+  {
+    "id": [283],
+    "name": ["Rock Pipit"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Anthus petrosus"],
+    "seen": [false]
+  },
+  {
+    "id": [284],
+    "name": ["Tawny Pipit"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Anthus campestris"],
+    "seen": [false]
+  },
+  {
+    "id": [285],
+    "name": ["Western Yellow Wagtail"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Motacilla flava"],
+    "seen": [false]
+  },
+  {
+    "id": [286],
+    "name": ["Grey Wagtail"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Motacilla cinerea"],
+    "seen": [false]
+  },
+  {
+    "id": [287],
+    "name": ["Citrine Wagtail"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Motacilla citreola"],
+    "seen": [false]
+  },
+  {
+    "id": [288],
+    "name": ["White Wagtail"],
+    "family": ["Stelzen und Pieper"],
+    "scientific_name": ["Motacilla alba"],
+    "seen": [false]
+  },
+  {
+    "id": [289],
+    "name": ["Common Chaffinch"],
+    "family": ["Finken"],
+    "scientific_name": ["Fringilla coelebs"],
+    "seen": [false]
+  },
+  {
+    "id": [290],
+    "name": ["Brambling"],
+    "family": ["Finken"],
+    "scientific_name": ["Fringilla montifringilla"],
+    "seen": [false]
+  },
+  {
+    "id": [291],
+    "name": ["Hawfinch"],
+    "family": ["Finken"],
+    "scientific_name": ["Coccothraustes coccothraustes"],
+    "seen": [false]
+  },
+  {
+    "id": [292],
+    "name": ["Common Rosefinch"],
+    "family": ["Finken"],
+    "scientific_name": ["Carpodacus erythrinus"],
+    "seen": [false]
+  },
+  {
+    "id": [293],
+    "name": ["Eurasian Bullfinch"],
+    "family": ["Finken"],
+    "scientific_name": ["Pyrrhula pyrrhula"],
+    "seen": [false]
+  },
+  {
+    "id": [294],
+    "name": ["European Greenfinch"],
+    "family": ["Finken"],
+    "scientific_name": ["Chloris chloris"],
+    "seen": [false]
+  },
+  {
+    "id": [295],
+    "name": ["Twite"],
+    "family": ["Finken"],
+    "scientific_name": ["Linaria flavirostris"],
+    "seen": [false]
+  },
+  {
+    "id": [296],
+    "name": ["Common Linnet"],
+    "family": ["Finken"],
+    "scientific_name": ["Linaria cannabina"],
+    "seen": [false]
+  },
+  {
+    "id": [297],
+    "name": ["Redpoll"],
+    "family": ["Finken"],
+    "scientific_name": ["Acanthis flammea"],
+    "seen": [false]
+  },
+  {
+    "id": [298],
+    "name": ["Parrot Crossbill"],
+    "family": ["Finken"],
+    "scientific_name": ["Loxia pytyopsittacus"],
+    "seen": [false]
+  },
+  {
+    "id": [299],
+    "name": ["Red Crossbill"],
+    "family": ["Finken"],
+    "scientific_name": ["Loxia curvirostra"],
+    "seen": [false]
+  },
+  {
+    "id": [300],
+    "name": ["European Goldfinch"],
+    "family": ["Finken"],
+    "scientific_name": ["Carduelis carduelis"],
+    "seen": [false]
+  },
+  {
+    "id": [301],
+    "name": ["Citril Finch"],
+    "family": ["Finken"],
+    "scientific_name": ["Carduelis citrinella"],
+    "seen": [false]
+  },
+  {
+    "id": [302],
+    "name": ["European Serin"],
+    "family": ["Finken"],
+    "scientific_name": ["Serinus serinus"],
+    "seen": [false]
+  },
+  {
+    "id": [303],
+    "name": ["Eurasian Siskin"],
+    "family": ["Finken"],
+    "scientific_name": ["Spinus spinus"],
+    "seen": [false]
+  },
+  {
+    "id": [304],
+    "name": ["Lapland Longspur"],
+    "family": ["Tundraammern"],
+    "scientific_name": ["Calcarius lapponicus"],
+    "seen": [false]
+  },
+  {
+    "id": [305],
+    "name": ["Snow Bunting"],
+    "family": ["Tundraammern"],
+    "scientific_name": ["Plectrophenax nivalis"],
+    "seen": [false]
+  },
+  {
+    "id": [306],
+    "name": ["Corn Bunting"],
+    "family": ["Ammern"],
+    "scientific_name": ["Emberiza calandra"],
+    "seen": [false]
+  },
+  {
+    "id": [307],
+    "name": ["Rock Bunting"],
+    "family": ["Ammern"],
+    "scientific_name": ["Emberiza cia"],
+    "seen": [false]
+  },
+  {
+    "id": [308],
+    "name": ["Ortolan Bunting"],
+    "family": ["Ammern"],
+    "scientific_name": ["Emberiza hortulana"],
+    "seen": [false]
+  },
+  {
+    "id": [309],
+    "name": ["Cirl Bunting"],
+    "family": ["Ammern"],
+    "scientific_name": ["Emberiza cirlus"],
+    "seen": [false]
+  },
+  {
+    "id": [310],
+    "name": ["Yellowhammer"],
+    "family": ["Ammern"],
+    "scientific_name": ["Emberiza citrinella"],
+    "seen": [false]
+  },
+  {
+    "id": [311],
+    "name": ["Reed Bunting"],
+    "family": ["Ammern"],
+    "scientific_name": ["Emberiza schoeniclus"],
+    "seen": [false]
+  }
+]
